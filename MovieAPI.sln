@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieAPI", "MovieAPI\MovieAPI.csproj", "{FFC027F4-CF91-44CE-896C-F73C3FD9A167}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieAPINUnitTesting", "MovieAPINUnitTesting\MovieAPINUnitTesting\MovieAPINUnitTesting.csproj", "{1FB02D4A-7993-404B-BD53-2C351EE124FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC027F4-CF91-44CE-896C-F73C3FD9A167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC027F4-CF91-44CE-896C-F73C3FD9A167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC027F4-CF91-44CE-896C-F73C3FD9A167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC027F4-CF91-44CE-896C-F73C3FD9A167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB02D4A-7993-404B-BD53-2C351EE124FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB02D4A-7993-404B-BD53-2C351EE124FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB02D4A-7993-404B-BD53-2C351EE124FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB02D4A-7993-404B-BD53-2C351EE124FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948C7B52-B9B3-4158-A018-430C7ED96F77}
+	EndGlobalSection
+EndGlobal
